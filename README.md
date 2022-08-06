@@ -1,10 +1,10 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-**1 Agustus 2022**  
-Belajar kelas Logika Pemrograman. (Progres 21%)
-  * Belajar apa itu Logika dan Algoritma
-  * Belajar cara berpikir Computanional Thinking
+**14 Juni 2021**  
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java
 
 **15 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
